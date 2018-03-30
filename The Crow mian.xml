@@ -1,7 +1,4 @@
 
-
-
-
 <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/lost50/crow/master/crow%20movies.xml</link>
@@ -9,7 +6,7 @@
 
 <dir>
     <title>TV</title>
-    <link>https://raw.githubusercontent.com/lost50/crow/master/247-tv%20(1).xml</link>
+    <link></link>
 </dir>
 
 <dir>
