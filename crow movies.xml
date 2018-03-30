@@ -1,4 +1,44 @@
 <dir>
+    <title>Movies One Play</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/direct%20movie%20links.xml</link>
+</dir>
+
+<dir>
+    <title>Movie Trialers</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/movie%20trialers.xml</link>
+</dir>
+
+<dir>
+    <title>TMDB Now Playing</title>
+    <tmdb>movies/now_playing</tmdb>
+</dir>
+
+ <dir>
+<title>Gangsta</title>
+<tmdb>list/51623</tmdb>
+</dir>
+
+<dir>
+<title>Sports Movies</title>
+<tmdb>list/51638</tmdb>
+</dir>
+
+<dir>
+<title>mythology</title>
+<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+<dir>
+    <title>Women's Sports</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/weman%20sports%20fights.xml</link>
+</dir>
+
+<dir>
+    <title>Kung Fu Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/eod%20kung%20fu.xml</link>
+</dir>
+
+<dir>
     <title>Women's Sports</title>
     <link>https://raw.githubusercontent.com/lost50/crow/master/weman%20sports%20fights.xml</link>
 </dir>
