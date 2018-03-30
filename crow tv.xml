@@ -1,9 +1,35 @@
 <dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
   <title>Netflix Shows</title>
   <tmdb>network/shows/213</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>Crow TV</title>
+  <tmdb>list/51236</tmdb>
+</dir>
+
+<dir>
+<title>Animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+  <title>TV Game Shows</title>
+  <tmdb>list/51238</tmdb>
+</dir>
+
 <dir>
     <title>Airing Today</title>
     <tmdb>tv/today</tmdb>
@@ -18,18 +44,8 @@
     <fanart></fanart>
 </dir>
 
-<dir>
-<title>Trakt List</title>
-<trakt>https://trakt.tv/users/trapper-12/lists/eye</trakt>
-</dir>
-
-<dir>
-<title>Networks</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
-</dir>
-
  <dir>
-<title>IMDB NEW TV Shows</title>
-<imdburl>https://www.imdb.com/chart/tvmeter</imdburl>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
 </dir>
-    
