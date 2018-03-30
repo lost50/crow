@@ -19,12 +19,10 @@
 </dir>
 
 <dir>
-    <title>TV Box Sets</title>
-    <tmdb>list/39675?limit=40&page=1</tmdb>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+<title>Trakt List</title>
+<trakt>https://trakt.tv/users/trapper-12/lists/eye</trakt>
 </dir>
- 
+
 <dir>
 <title>Networks</title>
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
@@ -32,6 +30,6 @@
 
  <dir>
 <title>IMDB NEW TV Shows</title>
-<imdburl>tvshows/new</imdburl>
+<imdburl>https://www.imdb.com/chart/tvmeter</imdburl>
 </dir>
     
