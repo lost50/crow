@@ -12,6 +12,10 @@
     <title>TMDB Now Playing</title>
     <tmdb>movies/now_playing</tmdb>
 </dir>
+ <dir>
+<title>New Releases</title>
+<tmdb>list/52295</tmdb>
+</dir>
 
  <dir>
 <title>Gangsta</title>
