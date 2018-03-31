@@ -1,13 +1,23 @@
 <dir>
     <title>Movies One Play</title>
-    <link>https://raw.githubusercontent.com/lost50/crow/master/direct%20movie%20links.xml</link>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/crow%20dir%20movie%20links.xml</link>
 </dir>
 
 <dir>
     <title>Movie Trialers</title>
     <link>https://raw.githubusercontent.com/lost50/crow/master/movie%20trialers.xml</link>
 </dir>
-
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+  
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+  </dir>
+   
 <dir>
     <title>TMDB Now Playing</title>
     <tmdb>movies/now_playing</tmdb>
@@ -15,6 +25,16 @@
  <dir>
 <title>New Releases</title>
 <tmdb>list/52295</tmdb>
+</dir>
+
+<dir>
+<title>Action movies </title>
+<tmdb>list/47583</tmdb>
+</dir>
+
+<dir>
+  <title>My List</title>
+  <tmdb>list/51661</tmdb>
 </dir>
 
  <dir>
